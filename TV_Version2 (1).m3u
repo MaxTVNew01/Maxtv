@@ -1,3 +1,40 @@
-#EXT.m3u8
-#
+[
+  {"name":"O'zbekiston 24","url":"https://stream.mtrk.uz/ozbekiston24/playlist.m3u8","group":"UZ"},
+  {"name":"Yoshlar TV","url":"https://stream.mtrk.uz/yoshlar/playlist.m3u8","group":"UZ"},
+  {"name":"Sport TV","url":"https://stream.mtrk.uz/sport/playlist.m3u8","group":"UZ"},
+  {"name":"Madaniyat","url":"https://stream.mtrk.uz/madaniyat/playlist.m3u8","group":"UZ"},
+  {"name":"Bolajon","url":"https://stream.mtrk.uz/bolajon/playlist.m3u8","group":"UZ"},
+  {"name":"Dunyo Bo'ylab","url":"https://stream.mtrk.uz/dunyo/playlist.m3u8","group":"UZ"},
+  {"name":"Navo","url":"https://stream.mtrk.uz/navo/playlist.m3u8","group":"UZ"},
+  {"name":"Mahalla","url":"https://stream.mtrk.uz/mahalla/playlist.m3u8","group":"UZ"},
+
+  {"name":"Al Jazeera","url":"https://www.youtube.com/watch?v=bNyUyrR0PHo","group":"NEWS"},
+  {"name":"DW News","url":"https://www.youtube.com/watch?v=GE_SfNVNyqk","group":"NEWS"},
+  {"name":"Euronews","url":"https://www.youtube.com/watch?v=pykpO5kQJ98","group":"NEWS"},
+  {"name":"France 24","url":"https://www.youtube.com/watch?v=l8PMl7tUDIE","group":"NEWS"},
+
+  {"name":"NASA TV","url":"https://www.nasa.gov/multimedia/nasatv/index.html","group":"WORLD"},
+  {"name":"Bloomberg","url":"https://live.bloomberg.com/","group":"WORLD"},
+
+  {"name":"Big Buck Bunny","url":"https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8","group":"TEST"},
+  {"name":"Sintel","url":"https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8","group":"TEST"},
+  {"name":"Tears of Steel","url":"https://test-streams.mux.dev/tos_ism/manifest.m3u8","group":"TEST"},
+
+  {"name":"Kids 1","url":"https://test-streams.mux.dev/test_001/stream.m3u8","group":"KIDS"},
+  {"name":"Kids 2","url":"https://test-streams.mux.dev/bbb-360p.m3u8","group":"KIDS"},
+
+  {"name":"Music 1","url":"https://test-streams.mux.dev/bbb-720p.m3u8","group":"MUSIC"},
+  {"name":"Music 2","url":"https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8","group":"MUSIC"},
+
+  {"name":"Channel A","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel B","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel C","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel D","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel E","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel F","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel G","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel H","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel I","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"},
+  {"name":"Channel J","url":"ADD_OFFICIAL_LINK_HERE","group":"EXTRA"}
+]
 
